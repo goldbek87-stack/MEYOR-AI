@@ -1,0 +1,9 @@
+{
+  "name": "meyor-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Me'yor ilovasi uchun AI server: rasmdan taomni aniqlash",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "engines": { "node": ">=20" }
+}
